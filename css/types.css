@@ -98,9 +98,25 @@ textarea {
    ========================================================================== */
 
 
+/* Section Styles */
+section p {
+    width: 500px;
+    height: 800px;
+}
 
-
-
+/* Body Styles */
+/* Header Styles */
+/* Aside Styles */
+/* Nav Styles */
+/* footer */
+footer {
+    padding: 8px;
+    margin: 1px;
+    display: table;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
 
 
 
