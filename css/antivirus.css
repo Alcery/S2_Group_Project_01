@@ -105,8 +105,33 @@ section p {
 
 /* Body Styles */
 /* Header Styles */
+header>nav {
+    display: table;
+    width: 100%;
+}
+
+header>nav>ul {
+    display: table-row;
+    list-style-type: none;
+}
+
+header>nav>ul>li {
+    display: table-cell;
+    text-align: center;
+}
+
 /* Aside Styles */
 /* Nav Styles */
+header>nav>ul>li a:link,
+header>nav>ul>li a:visited {
+    text-decoration: none;
+}
+
+header>nav>ul>li a:hover,
+header>nav>ul>li a:active {
+    text-decoration: underline;
+}
+
 /* footer */
 footer {
     padding: 8px;
