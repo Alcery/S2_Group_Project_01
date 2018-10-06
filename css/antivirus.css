@@ -99,8 +99,12 @@ textarea {
 
 /* Section Styles */
 section p {
-    width: 500px;
+    width: 900px;
     height: 800px;
+}
+
+section p {
+    padding: 100;
 }
 
 /* Body Styles */
@@ -133,13 +137,13 @@ header>nav>ul>li a:active {
 }
 
 /* footer */
-footer {
+body>footer {
     padding: 8px;
     margin: 1px;
-    display: table;
+    display: table-cell;
     width: 100%;
     list-style-type: none;
-    text-align: center;
+    text-align: bottom;
 }
 
 
