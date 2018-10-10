@@ -40,3 +40,5 @@ Virus Detection
 
     https://s3.amazonaws.com/academia.edu.documents/30606819/Christopher_Kruegel_Recent_Advances_in_Intrusio.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1539134937&Signature=yeqcZRhE4KMrKauYljpzUDDvdIM%3D&response-content-disposition=inline%3B%20filename%3DVortex_Enabling_cooperative_selective_wo.pdf#page=187
 
+    https://www.cs.unm.edu/~forrest/publications/Email%20Networks%20and%20the%20Spread%20of%20Computer%20Viruses.pdf
+
