@@ -1,3 +1,9 @@
+@charset "utf-8";
+@viewport {
+    width: auto;
+    height: auto;
+    
+}
 /*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
 
 /*
@@ -10,11 +16,11 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-html {
+/* html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-}
+} */
 
 /*
  * Remove text-shadow in selection highlight:
@@ -99,14 +105,18 @@ textarea {
 
 /* general styles */
 
+
 html {
     background-color: rgb(0, 64, 137);
+    
+    
 }
 
 body {
     background-color: rgb(220, 220, 220);
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+   
 }
 
 header nav {
@@ -117,17 +127,19 @@ header nav {
 
 /* Article Styles */
 
-article p {
-    width: 900px;
-    height: 800px;
-}
-
-article p {
-    padding: 100;
-    margin-left: 30px;
-    font-size: 1.1vw;
-    font-size: 2vh;
-    margin-right: 30px;
+body article>p {
+    width: 75vw;
+    height: 50vh;}
+body article>p
+{
+    padding-top: 10px; 
+    padding-right:60px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    /* margin-left: 30px; */
+    font-size: 0.9em;
+   /* font-size: 2px;  */
+    /* margin-right: 30px; */
 }
 
 article h1 {
