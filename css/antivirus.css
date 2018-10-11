@@ -127,9 +127,10 @@ body article>p {
     padding-right: 60px;
     padding-bottom: 25px;
     padding-left: 5px;
-    margin-left: 15px;
+    margin-left: 40px;
     font-size: 2.3vw;
     font-size: 2.8vh;
+
     /* font-size: 2px;  */
     /* margin-right: 30px; */
 }
@@ -209,7 +210,7 @@ article img {
     width: 20%;
     height: 20%;
     margin-bottom: 30px;
-    padding-left: 200px;
+    padding-left: 350px;
 }
 
 
